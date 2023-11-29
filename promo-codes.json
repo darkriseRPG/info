@@ -1,10 +1,8 @@
 {
-  "codes": 
-  [
+  "objects": [
     {
       "hash": "640378a2580b4448e7b46246ccc3586f87605c291021b9e96e143b19ea7bd78d",
-      "itemsData": 
-      [
+      "itemsData": [
         {
           "id": "88753799-a1d1-4eec-a54f-e688c3ddfd44",
           "amount": "100"
