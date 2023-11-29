@@ -1,0 +1,16 @@
+{
+  "codes": 
+  [
+    {
+      "itemId": "1234",
+      "itemAmount": "100",
+      "itemLvl": "20"
+    },
+
+    {
+      "itemId": "1234",
+      "itemAmount": "100",
+      "itemLvl": "20"
+    }
+  ]
+}
